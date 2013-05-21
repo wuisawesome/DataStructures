@@ -24,9 +24,7 @@ public:
 	}
 
 	~LinkedList(void){
-		//delete first;
-		//delete last;
-		//delete count;
+		emptyList();
 	}
 
 	void addLast(T &obj){
