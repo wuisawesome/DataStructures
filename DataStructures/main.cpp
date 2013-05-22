@@ -8,6 +8,9 @@ using namespace std;
 int main(){
 	ArrayList<string> list = ArrayList<string>();
 
+	ArrayList<string> *tmp = &list;
+	if (tmp) cout << "init" << endl;
+
 	string hello = "Hello", world = "World!";
 	list.add(hello);
 	list.add(world);
