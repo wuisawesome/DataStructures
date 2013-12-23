@@ -2,6 +2,7 @@
 #include <string>
 #include "LinkedList.h"
 #include "ArrayList.h"
+#include "BinaryTree.h"
 
 using namespace std;
 
