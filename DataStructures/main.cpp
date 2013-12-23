@@ -8,6 +8,7 @@ using namespace std;
 
 int main(){
 	ArrayList<string> list = ArrayList<string>();
+    BinarySearchTree<string> tree = BinarySearchTree<string>();
 
 	ArrayList<string> *tmp = &list;
 	if (tmp) cout << "init" << endl;
