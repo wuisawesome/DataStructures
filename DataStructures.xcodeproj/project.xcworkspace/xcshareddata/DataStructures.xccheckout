@@ -5,34 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>20F6E8B9-031F-4251-8BAB-98712298536A</string>
+	<string>51218FA4-17BD-4D82-9F98-011BA83D5B98</string>
 	<key>IDESourceControlProjectName</key>
 	<string>DataStructures</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>7D95CDB6-6CF8-412E-8261-241C40E53A01</key>
-		<string>https://www.github.com/wuisawesome/DataStructures</string>
+		<key>6A3A81B7-73E9-4CBD-9B9A-DE7AA62BA00E</key>
+		<string>https://github.com/wuisawesome/DataStructures.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>DataStructures.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>7D95CDB6-6CF8-412E-8261-241C40E53A01</key>
+		<key>6A3A81B7-73E9-4CBD-9B9A-DE7AA62BA00E</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://www.github.com/wuisawesome/DataStructures</string>
+	<string>https://github.com/wuisawesome/DataStructures.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>7D95CDB6-6CF8-412E-8261-241C40E53A01</string>
+	<string>6A3A81B7-73E9-4CBD-9B9A-DE7AA62BA00E</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>7D95CDB6-6CF8-412E-8261-241C40E53A01</string>
+			<string>6A3A81B7-73E9-4CBD-9B9A-DE7AA62BA00E</string>
 			<key>IDESourceControlWCCName</key>
 			<string>DataStructures</string>
 		</dict>
